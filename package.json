@@ -1,0 +1,37 @@
+{
+    "name": "umomega-former",
+    "version": "1.0.0",
+    "description": "UI Components for Manipulating Custom Forms",
+    "main": "former-ui.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/umomega/former-ui.git"
+    },
+    "keywords": [
+        "umomega",
+        "ui",
+        "former",
+        "front-end",
+        "js"
+    ],
+    "author": {
+        "name": "Egemen Berker Kızılcan",
+        "email": "egemen@umomega.com",
+        "url": "https://umomega.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/umomega/former-ui/issues"
+    },
+    "homepage": "https://github.com/umomega/former-ui#readme",
+    "files": [
+        "js",
+        "LICENSE",
+        "README.md",
+        "former-ui.js"
+    ],
+    "dependencies": {
+        "vuedraggable": "^2.24.3",
+        "umomega-foundation": "^1.19.6"
+    }
+}
